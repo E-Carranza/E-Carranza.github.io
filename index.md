@@ -1,8 +1,8 @@
 
 # Ever Carranza's Portfolio
 
-I am a salvadorean guy majoring in compurer science at CSUF. I am 18 years old and plan on graduing in 2028. 
-I chose computer science because the degree offers a job prospects and has a significant social impact. In the future, I would like to start my own business to advocate for my communitty. 
+I am a Salvadoran guy majoring in computer science at CSUF. I am 18 years old and plan on graduating in 2028. I chose computer science because the degree offers job prospects and has a significant social impact. In the future, I would like to start my own business to advocate for my community. 
+
 
 ## Favorirte CPSC-120L Labs 
 
@@ -18,5 +18,6 @@ I chose computer science because the degree offers a job prospects and has a sig
 
 * Lab 4, Part-2
 
-    Definitely, one of the best labs was the number four in my opinion. It was called the guessing game. In part two, we wrote a code that had a winner number and the participants had to guess the number. Also, it was the introduction of the “double function”, something that helped us in the upcoming labs. 
+    Definitely, one of the best labs was the number four in my opinion. It was called the guessing game. In part two, we wrote a code that had a winner number and the participants had to guess the number. Also, there was the introduction of the “double function”, something that helped us in the upcoming labs. My teammates and I completed the second part of the lab in class. We had some problems but at the end of the day, the test passed correctly.
+
 
